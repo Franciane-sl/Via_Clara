@@ -1,0 +1,65 @@
+
+{
+  "motivos_contestacao": [
+    {
+      "id": 1,
+      "categoria": "cobranca_duplicada",
+      "motivo": "Cobrança duplicada",
+      "palavras_chave": [
+        "cobrado duas vezes",
+        "cobrança duplicada",
+        "duas cobranças",
+        "cobrança repetida"
+      ],
+      "orientacao": "Procure os canais oficiais da concessionária responsável e solicite a análise das cobranças. Informe a data, o horário aproximado, a praça de pedágio e os comprovantes disponíveis."
+    },
+    {
+      "id": 2,
+      "categoria": "cobranca_nao_reconhecida",
+      "motivo": "Cobrança não reconhecida",
+      "palavras_chave": [
+        "não reconheço a cobrança",
+        "não passei pela rodovia",
+        "cobrança desconhecida",
+        "cobrança indevida"
+      ],
+      "orientacao": "Entre em contato com a concessionária responsável para solicitar a verificação da cobrança. Informe os dados da transação disponíveis e peça esclarecimentos sobre sua origem."
+    },
+    {
+      "id": 3,
+      "categoria": "valor_divergente",
+      "motivo": "Valor de cobrança divergente",
+      "palavras_chave": [
+        "valor errado",
+        "valor diferente",
+        "cobrança maior",
+        "tarifa incorreta"
+      ],
+      "orientacao": "Solicite à concessionária a conferência do valor cobrado. Informe a data da passagem, a praça de pedágio e o valor registrado."
+    },
+    {
+      "id": 4,
+      "categoria": "cobranca_isencao",
+      "motivo": "Cobrança de usuário com possível direito à isenção",
+      "palavras_chave": [
+        "tenho isenção",
+        "veículo isento",
+        "fui cobrado mesmo com isenção",
+        "cobrança de isento"
+      ],
+      "orientacao": "Procure a concessionária para verificar o cadastro e as condições de concessão da isenção. Solicite a análise da cobrança e informe os dados necessários para verificar seu direito."
+    },
+    {
+      "id": 5,
+      "categoria": "falha_tag",
+      "motivo": "Falha na cobrança por tag automática",
+      "palavras_chave": [
+        "problema com tag",
+        "tag não funcionou",
+        "tag cobrou errado",
+        "falha na tag"
+      ],
+      "orientacao": "Entre em contato com a operadora da tag e com a concessionária responsável para verificar a transação. Tenha disponíveis os registros de passagem e as informações da cobrança."
+    }
+  ]
+}
