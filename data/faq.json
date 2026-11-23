@@ -1,0 +1,73 @@
+{
+  "perguntas_frequentes": [
+    {
+      "id": 1,
+      "categoria": "tags",
+      "pergunta": "Como funciona uma tag de pedágio?",
+      "palavras_chave": [
+        "tag",
+        "pedágio automático",
+        "pagamento automático"
+      ],
+      "resposta": "A tag é um dispositivo instalado no para-brisa do veículo. Ao passar por um ponto de cobrança compatível, o sistema identifica a tag e realiza a cobrança automaticamente, conforme as condições da operadora contratada."
+    },
+    {
+      "id": 2,
+      "categoria": "tags",
+      "pergunta": "Onde devo instalar a tag de pedágio?",
+      "palavras_chave": [
+        "instalação",
+        "para-brisa",
+        "colocar tag"
+      ],
+      "resposta": "Geralmente, a tag deve ser instalada no para-brisa do veículo, seguindo as instruções fornecidas pela operadora responsável."
+    },
+    {
+      "id": 3,
+      "categoria": "pagamentos",
+      "pergunta": "Quais são as formas de pagamento do pedágio?",
+      "palavras_chave": [
+        "pagamento",
+        "dinheiro",
+        "cartão",
+        "pix"
+      ],
+      "resposta": "As formas de pagamento podem incluir dinheiro, cartões e sistemas automáticos, dependendo da rodovia e da concessionária. Consulte os canais oficiais para confirmar as opções disponíveis."
+    },
+    {
+      "id": 4,
+      "categoria": "tarifas",
+      "pergunta": "Como consultar o valor do pedágio?",
+      "palavras_chave": [
+        "tarifa",
+        "preço",
+        "valor",
+        "quanto custa"
+      ],
+      "resposta": "O valor do pedágio varia conforme a rodovia, a praça de cobrança e a categoria do veículo. Consulte o site oficial da concessionária responsável para verificar a tarifa atualizada."
+    },
+    {
+      "id": 5,
+      "categoria": "isencoes",
+      "pergunta": "Quem tem direito à isenção de pedágio?",
+      "palavras_chave": [
+        "isenção",
+        "gratuidade",
+        "não pagar pedágio"
+      ],
+      "resposta": "As regras de isenção dependem da legislação aplicável e da concessionária responsável. Consulte os canais oficiais para verificar os critérios e documentos necessários."
+    },
+    {
+      "id": 6,
+      "categoria": "rodovias",
+      "pergunta": "Como obter informações sobre uma rodovia?",
+      "palavras_chave": [
+        "rodovia",
+        "estrada",
+        "condições da pista",
+        "informações"
+      ],
+      "resposta": "Para informações sobre condições da pista, obras, interdições e serviços disponíveis, consulte os canais oficiais da concessionária responsável pela rodovia."
+    }
+  ]
+}

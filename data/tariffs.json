@@ -1,0 +1,32 @@
+{
+  "tarifas": [
+    {
+      "id": 1,
+      "rodovia": "BR-101",
+      "praca": "Praça de Pedágio Norte",
+      "categoria_veiculo": "automovel",
+      "valor": 12.50
+    },
+    {
+      "id": 2,
+      "rodovia": "BR-101",
+      "praca": "Praça de Pedágio Sul",
+      "categoria_veiculo": "automovel",
+      "valor": 11.80
+    },
+    {
+      "id": 3,
+      "rodovia": "BR-376",
+      "praca": "Praça de Pedágio Central",
+      "categoria_veiculo": "automovel",
+      "valor": 9.80
+    },
+    {
+      "id": 4,
+      "rodovia": "BR-101",
+      "praca": "Praça de Pedágio Norte",
+      "categoria_veiculo": "motocicleta",
+      "valor": 6.25
+    }
+  ]
+}
