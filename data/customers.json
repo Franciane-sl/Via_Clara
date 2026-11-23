@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "debitos": [
+        {
+          "id": 101,
+          "descricao": "Pedágio - Rodovia BR-101",
+          "valor": 12.50,
+          "data": "2026-11-15",
+          "status": "pendente"
+        },
+        {
+          "id": 102,
+          "descricao": "Pedágio - Rodovia BR-376",
+          "valor": 9.80,
+          "data": "2026-11-18",
+          "status": "pago"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Maria Souza",
+      "debitos": [
+        {
+          "id": 201,
+          "descricao": "Pedágio - Rodovia BR-101",
+          "valor": 15.00,
+          "data": "2026-11-17",
+          "status": "pago"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Oliveira",
+      "debitos": []
+    }
+  ]
+}
