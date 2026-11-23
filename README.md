@@ -225,6 +225,3 @@ As tarifas apresentadas não representam valores oficiais de concessionárias.
 - Não consulta informações em tempo real de concessionárias.
 - As respostas dos agentes que utilizam modelos de linguagem podem apresentar limitações de precisão.
 
-## Autora
-
-Desenvolvido por [Franciane](https://github.com/Franciane-sl).
